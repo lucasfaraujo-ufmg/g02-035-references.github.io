@@ -22,7 +22,7 @@ of Nuclear Medicine 58:339–345
 
 [10] Ros J. G., Moraleda M., López M., Navarro T., and Navarro J. (2007) Monte Carlo based voxel phantoms for in vivo internal dosimetry. Radiation protection dosimetry 125:161–165
 
-[11] Musy M., Jacquenot G., Dalmasso G., de Bruin R., Pollack A., Claudi F., Badger C., Sullivan B., Hrisca D., Volpatto D. et al. (2021). Vedo, a Python module for scientific analysis and visualization of 3d objects and point clouds. Zenodo 1
+[11] Musy M., Jacquenot G., Dalmasso G., de Bruin R., Pollack A., Claudi F., Badger C., Sullivan B., Hrisca D., Volpatto D. et al. (2021). Vedo, a Python module for scientific analysis and visualization of 3D objects and point clouds. Zenodo 1
 
 [12] Nooruddin F. S. and Turk G. (2003) Simplification and repair of polygonal models using volumetric techniques. IEEE Transactions on Visualization and Computer Graphics 9:191–205
 
